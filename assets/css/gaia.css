@@ -67,7 +67,7 @@ h6,
 .content-blog p {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Cambo", "Times New Roman", serif;
+  font-family: 'Grand Hotel',cursive;
 }
 h1 a,
 .h1 a,
@@ -82,8 +82,8 @@ h5 a,
 h6 a,
 .h6 a,
 .content-blog p a {
-  font-size: inherit;
-  font-family: "Cambo", "Times New Roman", serif;
+  font-size: 100px;;
+  font-family: 'Grand Hotel',cursive;
 }
 
 .content-blog {
@@ -95,7 +95,10 @@ h6 a,
 }
 
 h1, .h1 {
-  font-size: 3em;
+  font-size: 100px;
+  font-weight: 500;
+  position: relative;
+  text-shadow: 0 0 10 px rgba(0,0,0,0.33)
   line-height: 1.213483146em;
   font-weight: bold;
 }
@@ -166,7 +169,7 @@ a:hover {
 }
 
 .title-modern {
-  font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Grand Hotel',cursive;
   font-weight: 200;
 }
 
